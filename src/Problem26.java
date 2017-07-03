@@ -27,7 +27,7 @@ public class Problem26 {
 			while (contains(restes,(r.intValue()*10)%d)==false){
 					n=r.intValue()*10;
 					r=new Integer(n%d);
-					restes.add(new Integer(r.intValue()));
+					restes.add(r.intValue());
 					
 				}
 			if (restes.size()>maxr){
