@@ -1,3 +1,2 @@
 # Euler
-projets eulers
-contient le projet euler numéro 26
+euler project to learn the Java syntax
